@@ -1,0 +1,7 @@
+streamlit>=1.50
+altair>=5
+pandas
+numpy
+scikit-learn
+joblib
+openpyxl
